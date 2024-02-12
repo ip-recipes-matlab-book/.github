@@ -1,4 +1,4 @@
-# Teble of Contents
+# Table of Contents
 ## Part I Basic Image Processing: Acquisition and Visualization
 Recipe 1: Loading, Displaying and Saving Images
 
